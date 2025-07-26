@@ -40,20 +40,10 @@ We build for the ones who feel out-of-place — and want tools that do too.
 
 ---
 
-## 🕸 join the anomaly
-
-Wanna fork a repo? Open a PR? Start a digital riot?
-Slide into the repo. Break the rules. Push weird code.
-
-> We welcome femmes, queers, neurodivergent folks, and anyone who ever felt like a file not found.
-
----
-
 ## 💣 last log
 
 > *\~\$ whoami*
 > **404femme**
-> *✖ access: granted*
+> *✖ access: denied*
 > *✖ morality: undefined*
 > *✖ aesthetic: weaponized*
-
