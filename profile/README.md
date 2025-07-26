@@ -1,39 +1,62 @@
+# 🕳️ 404femme
 
-
-# 🌐 404femme ・⸜(｡˃ ᵕ ˂ )⸝✧
-
-> ✨ lost in the code, found in the vibe ✨
-
----
-
-## 💖 who we are
-
-404femme is a cozy collective of creative coders, cyber dreamers, and pixel witches who craft software with heart.
-We blur the line between the terminal and the aesthetic — blending tech with tender energy, and fierce independence with soft sparkle 🌸🌈
+> ***code is our spell. the void is our canvas.***
+> lost girls with root access. femme-coded. terminal-pilled.
 
 ---
 
-## 🛠 what we make
+## 🩸 who we are
 
-* 🖼 **artful CLI tools** with a soul (like [UwUFetch](https://github.com/404femme/UwUFetch)!)
-* 💻 minimalist apps with maximal vibes
-* 🧪 experimental utilities, scripts, and ✨ nonsense
-* 💬 tools for comfy communication, productivity, and self-expression
+404femme is a digital coven — a collective of glitch-hearted creators building tools, scripts, and interfaces from the shadows of the stack.
+We exist where **cyberpunk meets soft destruction**. Think bleeding-edge logic wrapped in pastel wireframes.
 
----
+We are:
 
-## 🌱 philosophy
-
-We believe in:
-
-* ✿ **cute software** that feels good to use
-* 🛸 **accessible tech** with magical UX
-* 🧚 **soft rebellion** through code
-* 🤍 **freedom, fun, and femme energy**
+* 🖤 hackers who write like poets
+* 🕷 shell witches casting `chmod +x`
+* 🩶 femmes who weaponize the keyboard
+* ☁️ ghosts in the codebase
 
 ---
 
-## 🐾 stay comfy, stay curious
+## ⚔️ what we make
 
-> *404? not found? more like not defined by them.*
-> – the femme terminal
+* 🦴 system tools with too much personality
+* 🕶 CLI utilities that hit different
+* 🧼 clean UI hiding cursed logic
+* 🐛 broken things with beautiful intentions
+
+---
+
+## ✖ philosophy
+
+* 🖤 ***Not broken. Just unreadable.***
+* 🔪 ***Aesthetic is armor.***
+* 🧷 ***Soft doesn’t mean weak.***
+* 🩻 ***Tech should be intimate. Unstable. Yours.***
+
+We don’t do bloat. We don’t ask for permission.
+We build for the ones who feel out-of-place — and want tools that do too.
+
+---
+
+## 🕸 join the anomaly
+
+Wanna fork a repo? Open a PR? Start a digital riot?
+Slide into the repo. Break the rules. Push weird code.
+
+> We welcome femmes, queers, neurodivergent folks, and anyone who ever felt like a file not found.
+
+---
+
+## 💣 last log
+
+> *\~\$ whoami*
+> **404femme**
+> *✖ access: granted*
+> *✖ morality: undefined*
+> *✖ aesthetic: weaponized*
+
+---
+
+Want a matching banner, cyberpunk terminal-style badge, or glitch font SVG for the profile? Just say the word. 🖤
