@@ -57,6 +57,3 @@ Slide into the repo. Break the rules. Push weird code.
 > *✖ morality: undefined*
 > *✖ aesthetic: weaponized*
 
----
-
-Want a matching banner, cyberpunk terminal-style badge, or glitch font SVG for the profile? Just say the word. 🖤
