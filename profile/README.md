@@ -33,13 +33,6 @@ We believe in:
 
 ---
 
-## 🧩 join us?
-
-We’re always open to collaborators, contributors, or cozy lurkers.
-Feel free to fork our projects, open issues, or just vibe with us quietly 💕
-
----
-
 ## 🐾 stay comfy, stay curious
 
 > *404? not found? more like not defined by them.*
