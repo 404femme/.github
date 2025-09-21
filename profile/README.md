@@ -1,7 +1,7 @@
 ```
-# 🕳️ 404femme
+🕳️ 404femme
 
-> ***Code is our spell. The void is our canvas.***
+> Code is our spell. The void is our canvas.
 > Lost girls with root access. Femme-coded. Terminal-pilled.
 ```
 
