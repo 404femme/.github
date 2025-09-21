@@ -1,49 +1,42 @@
+```
 # 🕳️ 404femme
 
-> ***code is our spell. the void is our canvas.***
-> lost girls with root access. femme-coded. terminal-pilled.
+> ***Code is our spell. The void is our canvas.***
+> Lost girls with root access. Femme-coded. Terminal-pilled.
+```
+
+## About Us
+
+404femme is a collective of digital creators — a coven of developers, hackers, and designers — crafting tools, scripts, and interfaces from the forefront of the stack. Our work exists at the intersection of **cyberpunk aesthetics and purposeful disruption**, combining technical sophistication with distinctive design.
 
 ---
 
-## 🩸 who we are
+## Product & Tooling
 
-404femme is a digital coven — a collective of glitch-hearted creators building tools, scripts, and interfaces from the shadows of the stack.
-We exist where **cyberpunk meets soft destruction**. Think bleeding-edge logic wrapped in pastel wireframes.
+Our creations are designed to be functional yet expressive, balancing performance with identity:
 
-We are:
-
-* 🖤 hackers who write like poets
-* 🕷 shell witches casting `chmod +x`
-* 🩶 femmes who weaponize the keyboard
-* ☁️ ghosts in the codebase
+* 🦴 System tools with distinctive character
+* 🕶 CLI utilities optimized for efficiency and personality
+* 🧼 User interfaces that are both minimal and intentional
+* 🐛 Experimental solutions crafted with purpose and aesthetics
 
 ---
 
-## ⚔️ what we make
+## Philosophy
 
-* 🦴 system tools with too much personality
-* 🕶 CLI utilities that hit different
-* 🧼 clean UI hiding cursed logic
-* 🐛 broken things with beautiful intentions
+* 🖤 **Not broken. Intentionally obfuscated.**
+* 🔪 **Design as protective expression.**
+* 🧷 **Softness as a strategic advantage.**
+* 🩻 **Technology should be personal, flexible, and exploratory.**
 
----
-
-## ✖ philosophy
-
-* 🖤 ***Not broken. Just unreadable.***
-* 🔪 ***Aesthetic is armor.***
-* 🧷 ***Soft doesn’t mean weak.***
-* 🩻 ***Tech should be intimate. Unstable. Yours.***
-
-We don’t do bloat. We don’t ask for permission.
-We build for the ones who feel out-of-place — and want tools that do too.
+We eschew bloat and conventions. Our work is for those who feel outside the mainstream and desire tools that reflect their perspective.
 
 ---
 
-## 💣 last log
+## Current Status
 
 > *\~\$ whoami*
 > **404femme**
-> *✖ access: denied*
-> *✖ morality: undefined*
-> *✖ aesthetic: weaponized*
+> *✖ access: restricted*
+> *✖ ethics: autonomous*
+> *✖ aesthetic: intentional*
